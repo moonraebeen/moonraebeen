@@ -1,5 +1,20 @@
-# hubable 🍁
-> hub + available
+<p align="center">
+  <img src="assets/header.svg" alt="hubable banner" />
+</p>
+
+<h1 align="center">hubable 🍁</h1>
+<p align="center">
+  <b>hub + available</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-Git%20%26%20GitHub-C97C5D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Language-Python-E6A26A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor-PyCharm-6B4630?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-In%20Progress-5A3E2B?style=flat-square" />
+</p>
+
+---
 
 이 공간은 결과를 나열하기보다,  
 개발을 배우는 과정과 생각을 차분히 정리하기 위한 개인 기록 공간입니다.  

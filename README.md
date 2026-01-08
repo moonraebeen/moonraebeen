@@ -1,7 +1,7 @@
-<!-- hubable (hub + available) | Autumn warm tone | Minimal & stable -->
+<!-- hubable (hub + available) | Minimal · Autumn Warm Tone -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=hubable&fontSize=62&fontAlignY=36&color=0:C97C5D,50:E6A26A,100:F3D19C&fontColor=2F2318" />
+  <img src="https://raw.githubusercontent.com/moonraebeen/moonraebeen/main/assets/header.svg" alt="hubable header" />
 </p>
 
 <p align="center">
@@ -21,7 +21,9 @@
 ## 👋 About Me
 - SeSAC AI 개발 과정 수강 중  
 - Python과 Git/GitHub 학습 중  
-- 개발 환경 구성 및 버전 관리 기초를 익히는 단계입니다  
+- 개발 환경 구성 및 버전 관리 기초를 차근차근 익히는 단계입니다  
+
+---
 
 ## 🛠 Tech Stack
 <p>
@@ -31,15 +33,19 @@
   <img src="https://img.shields.io/badge/PyCharm-2F2318?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
 
+---
+
 ## 📚 What I'm Learning
 - Git 기본 명령어 (init, add, commit, push)  
 - GitHub를 활용한 프로젝트 관리  
 - Markdown 문서 작성  
 
+---
+
 ## 🎯 Goals
 - Git 기반 버전 관리 습관 만들기  
-- GitHub 프로필로 학습 이력 정리  
-- 협업을 위한 Git 흐름 이해하기  
+- GitHub 프로필을 통한 학습 이력 정리  
+- 팀 프로젝트를 위한 Git 협업 흐름 이해하기  
 
 ---
 

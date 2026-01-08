@@ -1,62 +1,53 @@
-<!-- hubable (hub + available) | Minimal · Autumn Warm Tone -->
+# hubable 🍁
+> hub + available
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/moonraebeen/moonraebeen/main/assets/header.svg" alt="hubable header" />
-</p>
-
-<p align="center">
-  <b>hub + available 🍁</b><br/>
-  SeSAC AI 개발 과정 수강 중 · Python & Git/GitHub 학습 중
-</p>
-
-<p align="center">
-  <a href="https://github.com/moonraebeen">
-    <img src="https://img.shields.io/badge/GitHub-moonraebeen-5A3E2B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=moonraebeen&style=for-the-badge&color=E6A26A" />
-</p>
+이 공간은 결과를 나열하기보다,  
+개발을 배우는 과정과 생각을 차분히 정리하기 위한 개인 기록 공간입니다.  
+빠르게 채우기보다는, 오래 유지하는 것을 목표로 합니다.
 
 ---
 
-## 👋 About Me
-- SeSAC AI 개발 과정 수강 중  
-- Python과 Git/GitHub 학습 중  
-- 개발 환경 구성 및 버전 관리 기초를 차근차근 익히는 단계입니다  
+## This space is for
+
+- 개발을 배우며 생기는 생각과 시행착오를 기록합니다.
+- 완성보다 과정을, 속도보다 방향을 중요하게 생각합니다.
+- 작은 단위라도 꾸준히 쌓아가는 개발 습관을 만들고자 합니다.
 
 ---
 
-## 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-9C5B3B?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-C46A2B?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-5A3E2B?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-2F2318?style=for-the-badge&logo=pycharm&logoColor=white" />
-</p>
+## Structure
+
+이 저장소는 다음과 같은 성격의 공간으로 확장될 예정입니다.
+
+- **About**  
+  학습 방향, 관심사, 그리고 이 공간을 만들게 된 배경을 정리합니다.
+
+- **Notes**  
+  Git, 개발 환경 설정, 공부 중 헷갈렸던 부분들을 짧게 기록합니다.
+
+- **플리 공유방**  
+  집중할 때, 산책할 때 자주 듣는 플레이리스트를 공유하는 공간입니다.
+
+- **노래 추천방**  
+  곡과 함께 간단한 한 줄 코멘트를 남기는 추천 공간입니다.
 
 ---
 
-## 📚 What I'm Learning
-- Git 기본 명령어 (init, add, commit, push)  
-- GitHub를 활용한 프로젝트 관리  
-- Markdown 문서 작성  
+## Now
+
+- Git과 GitHub의 기본 흐름을 실제로 사용하며 익히는 중입니다.
+- 개인 사이트(hubable)를 UI 중심으로 천천히 구성하고 있습니다.
+- 작은 기록이라도 꾸준히 남기는 습관을 만들고 있습니다.
 
 ---
 
-## 🎯 Goals
-- Git 기반 버전 관리 습관 만들기  
-- GitHub 프로필을 통한 학습 이력 정리  
-- 팀 프로젝트를 위한 Git 협업 흐름 이해하기  
+## Roadmap
+
+- [ ] 개인 사이트 구조 설계 (Home / About / Notes / Rooms)
+- [ ] Notes 정리 및 기록 루틴 만들기
+- [ ] 플레이리스트 및 추천 목록 확장
 
 ---
 
-## 📊 Stats
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=moonraebeen&show_icons=true&hide_border=true&bg_color=00000000&title_color=5A3E2B&text_color=2F2318&icon_color=C46A2B" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonraebeen&layout=compact&hide_border=true&bg_color=00000000&title_color=5A3E2B&text_color=2F2318" />
-</p>
-
----
-
-<sub>🍁 This profile README was created as part of the SeSAC Git basic mission.</sub>
+> 이 공간은 아직 완성되지 않았습니다.  
+> 대신, 계속 사용될 예정입니다.
